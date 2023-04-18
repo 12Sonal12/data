@@ -1,0 +1,38 @@
+[
+ {
+  "ID": 1,
+  "NAME": "AMAN",
+  "BATCH": 2021,
+  "AREA": "CS"
+ },
+ {
+  "ID": 2,
+  "NAME": "ARTI",
+  "BATCH": 2020,
+  "AREA": "CS"
+ },
+ {
+  "ID": 3,
+  "NAME": "BHARTI",
+  "BATCH": 2022,
+  "AREA": "CS"
+ },
+ {
+  "ID": 4,
+  "NAME": "DIVYA",
+  "BATCH": 2021,
+  "AREA": "CS"
+ },
+ {
+  "ID": 5,
+  "NAME": "HINA",
+  "BATCH": 2020,
+  "AREA": "CS"
+ },
+ {
+  "ID": 6,
+  "NAME": "ISHANVI",
+  "BATCH": 2020,
+  "AREA": "CS"
+ }
+]
